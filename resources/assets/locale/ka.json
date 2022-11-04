@@ -1,0 +1,637 @@
+{
+	"_text_submit_resume": "თქვენ უნდა გადააგზავნოთ პროფილი დასადასტურებლად, გამოიყენეთ ლინკი:",
+	"_text_waiting_for_approval": "პროფილი გადახედვის პროცესშია, თქვენ მიიღებთ შეტყობინებას როცა პროცესი დასრულდება.",
+	"_text_resume_rejected": "თქვენი პროფილი უარყოფილია, გთხოვთ შეავსოთ და გადმოგზავნოთ ხელმეორედ",
+
+
+
+
+
+
+	"submit": "გაგზავნა",
+	"company": "კომპანია",
+	"first_name": "სახელი",
+	"last_name": "გვარი",
+	"company_email": "კომპანიის ელ-ფოსტა",
+	"applicant": "კანდიდატი",
+	"company_name": "კომპანიის დასახელება",
+	"identification_number": "კომპანიის საიდენტიფიკაციო ნომერი",
+	"gender": "სქესი",
+	"birth_date": "დაბადების თარიღი",
+	"okay": "დასტური",
+	"close": "დახურვა",
+	"phone_number": "ტელ. ნომერი",
+	"company_address_1": "მისამართი 1",
+	"company_address_2": "მისამართი 2",
+	"company_name_empty": "კომპანიის სახელი - სავალდებულოა.",
+	"company_id_number_empty": "კომპანიის საიდენტიფიკაციო ნომერი - სავალდებულოა.",
+	"company_email_wrong": "ელ-ფოსტა არასწორია.",
+	"company_phone_number_empty": "ტელეფონის ნომერი - სავალდებულოა.",
+	"company_address_1_empty": "კომპანიის მისამართი - სავალდებულოა.",
+	"company_city_id_empty": "კომპანიის ქალაქი - სავალდებულოა.",
+	"company_about": "კომპანიის შესახებ",
+	"company_phone_number": "კომპანიის ტელეფონის ნომერი",
+	"cancel": "გაუქმება",
+	"email": "ელ-ფოსტა",
+	"password": "პაროლი",
+	"confirm_password": "დაადასტურეთ პაროლი",
+	"select_country": "აირჩიეთ ქვეყანა",
+	"select_city": "აირჩიეთ ქალაქი",
+	"mobile_number": "ტელ. ნომერი",
+	"personal_number": "პირადი ნომერი",
+	"agreement_part1": "გაგრძელებით, თქვენ ეთანხმებით ბელინქდის",
+	"agreement_part2": "Privacy Notice",
+	"agreement_part3": "და",
+	"agreement_part4": "გამოყენების წესებს.",
+	"create_account": "შექმენი ექაუნთი.",
+	"back": "უკან",
+	"register": "რეგისტრაცია",
+	"next_step": "შემდეგი ნაბიჯი",
+	"please_wait": "გთხოვთ დაიცადოთ",
+	"verifying_your_email_address": "დაადასტურეთ თქვენი ელ-ფოსტის მისამართი",
+	"notif_verify_mobile_1": "თქვენს ტელეფონზე გამოიგზავნა დადასტურების კოდი",
+	"notif_verify_email_1": "თქვენს მეილზე გამოიგზავნა დადასტურების შეტყობინება",
+	"resend_it": "ახლიდან გაგზავნა",
+	"enter_code": "ჩაწერეთ კოდი",
+	"or_change_from": "შეცვალეთ",
+	"profile_edit": "პროფილის რედაქტირება",
+	"submit_resume": "შეავსეთ პროფილი",
+	"resubmit_resume": "შეავსეთ პროფილი",
+	"empty": "ცარიელია",
+	"login_email_placeholder": "ელ-ფოსტა",
+	"login_password_placeholder": "პაროლი",
+	"login_button": "შესვლა",
+	"forgot_send_link": "გაგზავნა",
+	"forgot_email_placeholder": "თქვენი ელექტრონული ფოსტის მისამართი",
+	"therms": "პირობები",
+	"read_more": "მეტის წაკითხვა",
+	"read_less": "ნაკლების წაკითხვა",
+
+
+
+
+
+
+
+
+
+
+	"accept": "დაადასტურე",
+	"accepted": "თანხმობა მიღებულია",
+	"decline": "უარყოფა",
+	"declined": "უარყოფილია",
+	"dashboard": "სამართავი პანელი",
+	"sign_in": "შესვლა",
+	"sign_out": "გამოსვლა",
+	"select_language": "აირჩიეთ ენა",
+	"company_details": "კომპანიის შესახებ",
+	"create_job": "ვაკანსიის შექმნა",
+	"my_resume": "პროფილი (CV)",
+	"browse": "დათვალიერება",
+	"my_profile": "ჩემი პროფილი",
+	"home": "მთავარი",
+	"jobs": "სამსახურები",
+	"find_jobs": "სამსახურების მოძიება",
+	"other_pages": "სხვა გვერდები",
+	"blog": "ბილინქდის შესახებ",
+	"pricing": "ფასები",
+	"candidate_profiles": "კანდიდატის  პროფილები",
+	"company_profiles": "კომპანიის პროფილები",
+	"company_profile": "კომპანიის პროფილი",
+	"total_jobs": "გამოქვეყნებული სამსახური",
+	"successful_matches": "წარმატებული კავშირი",
+	"waiting_for_matching": "ელოდება დაკავშირებას",
+	"video_title_1": "",
+	"video_title_2_1": "უყურეთ ვიდეოს",
+	"video_title_2_2": "უყურეთ ვიდეოს",
+	"work_section_title": ".",
+	"work_section_title_2_1": "როგორ ვმუშაობთ",
+	"work_section_title_2_2": "როგორ ვმუშაობთ",
+	"male": "მამაკაცი",
+	"female": "ქალი",
+	"yes": "დიახ",
+	"no": "არა",
+	"edit": "შეცვლა",
+	"video": "მოკლე ვიდეო SV (Short Video)",
+	"start": "დაწყება",
+	"end": "დასასრული",
+	"read": "წაკითხვა",
+	"less": "ნაკლები",
+	"more": "მეტი",
+	"name": "სახელი",
+	"start_date": "დაწყების თარიღი",
+	"end_date": "დასრულების თარიღი",
+	"documents": "დოკუმენტები",
+	"add_field": "დამატება",
+	"fill_resume": "შეავსეთ პროფილი (CV)",
+	"post_job": "განათავსეთ ახალი ვაკანსია",
+	"lost_password": "დაგავიწყდათ პაროლი?",
+	"sign_up": "რეგისტრაცია",
+	"map": "რუკა",
+	"view": "ნახვა",
+	"graduated": "დიპლომა/სერტიფიკატი",
+	"send": "გაგზავნა",
+	"year_exp": "წელი გამოცდილება",
+	"month": "თვე",
+	"bad": "ცუდი",
+	"normal": "საშუალო",
+	"good": "კარგი",
+	"excellent": "საუკეთესო",
+
+
+
+
+
+
+	"footer_about_section_title": "ჩვენ შესახებ",
+	"footer_title_2": "ბელინქდი",
+	"footer_contact_title": "კონტაქტი",
+	"footer_contact_name": "თქვენი სახელი",
+	"footer_contact_email": "ელ-ფოსტა",
+	"footer_contact_msg": "ტექსტი",
+	"copyright": "belinQed © 2019. ყველა უფლება დაცულია",
+	"powered_by": "მხარდაჭერა",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"applicant_dashboard_page_title": "სამართავი პანელი",
+	"applicant_dashboard_my_resume": "ჩემი პროფილი",
+	"applicant_dashboard_play_video": "მოკლე ვიდეო SV",
+	"applicant_dashboard_matches": "დამთხვევა",
+	"applicant_dashboard_about_me": "ჩემს შესახებ",
+	"applicant_dashboard_matched": "დამთხვეული ვაკანსიები",
+	"applicant_dashboard_alerts": "მნიშვნელოვანი შეხსენებები",
+	"applicant_dashboard_profile_edit": "პროფილის შეცვლა",
+	"applicant_dashboard_about_title": "ჩემს შესახებ",
+	"applicant_dashboard_get_in_touch": "ჩემი მონაცემები",
+	"applicant_dashboard_about_viewed_by": "ვიზიტორები",
+	"applicant_dashboard_about_years_old": "წლის",
+	"applicant_dashboard_matched_title": "შესაბამისი დოკუმენტები",
+	"applicant_dashboard_matched_send_csv": "გააგზავნეთ ვიდეო CSV",
+	"applicant_dashboard_alerts_no_alerts": "არ არის შეხსენებები",
+	"applicant_dashboard_alerts_new": "შეხსენებები",
+	"applicant_dashboard_alerts_view_detail": "დეტალები",
+	"applicant_dashboard_edit_profile_title": "პროფილის შეცვლა",
+	"applicant_dashboard_edit_profile_personal_id": "პირადი ნომერი",
+	"applicant_dashboard_edit_profile_phone": "ტელეფონი",
+	"applicant_dashboard_edit_profile_country": "ქვეყანა",
+	"applicant_dashboard_edit_profile_city": "ქალაქი",
+	"applicant_dashboard_edit_profile_form_name": "სახელი",
+	"applicant_dashboard_edit_profile_form_last_name": "გვარი",
+	"applicant_dashboard_edit_profile_form_personal_id": "პირადი ნომერი",
+	"applicant_dashboard_edit_profile_form_email_address": "ელ-ფოსტა",
+	"applicant_dashboard_edit_profile_form_phone_number": "ტელეფონის ნომერი",
+	"applicant_dashboard_edit_profile_form_birth_date": "დაბადების თარიღი",
+	"applicant_dashboard_edit_profile_form_new_password": "ახალი პაროლი",
+	"applicant_dashboard_edit_profile_form_repeat_password": "გაიმეორე პაროლი",
+	"applicant_dashboard_edit_profile_form_current_password": "ახლანდელი პაროლი",
+	"applicant_dashboard_edit_profile_form_upload_pic": "პროფილის სურათის ატვირთვა",
+	"applicant_dashboard_edit_profile_form_upload": "ატვირთვა",
+	"applicant_dashboard_edit_profile_form_update": "განახლება",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"resume_general_title": "პროფილი (CV)",
+	"resume_general_about_me": "ჩემს შესახებ",
+	"resume_general_get_in_touch": "ჩემი მონაცემები",
+	"resume_general_last_modified": "ბოლო ცვლილება:",
+	"resume_general_job_seeker": "ეძებს სამსახურს:",
+	"resume_general_visibility": "ხილვადობა",
+	"resume_general_work_experience": "სამუშაო გამოცდილების პერიოდი (წელი)",
+	"resume_general_company_name": "კომპანიის სახელი",
+	"resume_general_job_sector": "სამსახურის სექტორი",
+	"resume_general_job_location": "სამსახურის ადგილმდებარეობა",
+	"resume_general_situation": "არსებული მდგომარეობა:",
+	"resume_general_job_title": "ფროფესიის დასახელება",
+	"resume_general_job_description": "ფროფესიის აღწერა",
+	"resume_general_years_months": "მუშაობის პერიოდი",
+	"resume_general_read": "წაკითხვა",
+	"resume_general_currently_working": "ამჟამად დასაქმებული",
+	"resume_general_software_knowledge": "პროგრამული ცოდნა",
+	"resume_general_software_knowledge_level": "პროგრამის ცოდნის დონე",
+	"resume_general_graduated": "დიპლომა/სერტიფიკატი",
+	"resume_general_education": "განათლების ისტორია",
+	"resume_general_institution_name": "სასწავლებლის დასახელება",
+	"resume_general_education_level": "განათლების დონე",
+	"resume_general_education_direction": "განათლების მიმართულება",
+	"resume_general_core_competencies": "კომპეტენციები და დონე",
+	"resume_general_driver_licenses": "მართვის მოწმობა",
+	"resume_general_languages": "ენების ცოდნა (ლაპარაკის & წერის დონე)",
+	"resume_general_language": "ენა",
+	"resume_general_language_speaking_level": "სასაუბრო დონე",
+	"resume_general_language_writing_level": "წერითი დონე",
+	"resume_general_hobbies": "ჰობი და ინტერესები",
+	"resume_general_current_situation": "სამსახურის არსებული ვითარება",
+	"resume_general_skills": "უნარები",
+	"resume_general_employer": "დამსაქმებელი კომპანია ან ორგანიზაცია:",
+	"resume_general_career_level": "სამსახურის თანამდებობის დონე:",
+	"resume_general_availability": "შესაძლებლობა:",
+	"resume_general_employment_types": "დასაქმების ტიპები:",
+	"resume_general_looking_for_job": "ახალი სამსახურის მოთხოვნა",
+	"resume_general_job_hours": "სამუშაო საათები:",
+	"resume_general_job_salary": "სასურველი ანაზღაურება:",
+	"resume_general_accepted": "პროფილი მიღებულია",
+	"resume_general_accept_resume": "დასტური",
+	"resume_general_rejected": "პროფილი უარყოფილია",
+	"resume_general_reject_resume": "უარყოფა",
+	"resume_general_viewed_by": "იხილა",
+	"resume_general_language_level_bad": "ცუდი",
+	"resume_general_language_level_normal": "საშუალო",
+	"resume_general_language_level_good": "კარგი",
+	"resume_general_language_level_excellent": "ძალიან კარგი",
+	"public_resume_match_options": "სტატუსი და ხელსაწყოები",
+	"public_resume_matched_to_job": "კანდიდატის და ვაკანსიის დაკავშირება:",
+	"public_resume_request_csv": "დამატებით მოკლე ვიდეოს CSV მოთხოვნა",
+	"public_resume_view_csv": "ვიდეოს CSV ნახვა",
+	"public_resume_csv_requested": "ვიდეო CSV მოთხოვნილია",
+	"edit_resume_form_video_text": "ვიდეოს CSV ატვირთვა",
+	"edit_resume_form_submit_resume": "შეინახეთ თქვენი პროფილი",
+	"edit_resume_about_title": "შესახებ",
+	"edit_resume_about_placeholder": "ჩემს შესახებ",
+	"edit_resume_employment_history": "სამუშაო გამოცდილება",
+	"edit_resume_employment_history_start_day": "დაწყების თარიღი",
+	"edit_resume_employment_history_end_day": "დასრულების თარიღი (დატოვეთ ღია, თუ ამჟამადაც დასაქმებული ხართ)",
+	"edit_resume_employment_history_job_title": "სამსახურის დასახელება",
+	"edit_resume_employment_history_job_sector": "სამსახურის სექტორი",
+	"edit_resume_employment_history_job_location": "სამსახურის მდებარეობა",
+	"edit_resume_employment_history_job_description": "სამსახურის აღწერა",
+	"edit_resume_software_knowledge_select_placeholder": "პროგრამის ცოდნის სია და დონე",
+	"edit_resume_software_knowledge_level": "პროგრამის ცოდნის დონე",
+	"edit_resume_software_knowledge_graduated": "დიპლომა/სერტიფიკატი",
+	"edit_resume_software_knowledge_select_graduated": "კი",
+	"edit_resume_software_knowledge_select_not_graduated": "არა",
+
+	"edit_resume_add_education_title": "განათლების სია და დონე",
+	"edit_resume_add_education_institution": "სასწავლებლის დასახელება",
+	"edit_resume_add_education_direction": "განათლების მიმართულება",
+	"edit_resume_driver_license_select": "მართვის მოწმობა",
+	"edit_resume_hobbies": "თქვენი ჰობი და ინტერესები",
+	"edit_resume_skills_placeholder": "უნარები",
+	"edit_resume_current_situation_employer": "არსებული დამსაქმებელი",
+	"edit_resume_current_situation_job_title": "არსებული სამსახურის დასახელება",
+	"edit_resume_current_situation_job_sector": "არსებული სამსახურის სექტორი",
+	"edit_resume_current_situation_career_level": "არსებული თანამდებობის დონე",
+	"edit_resume_current_situation_employment_types": "არსებული სამსახურის დასაქმების ტიპი",
+	"edit_resume_looking_for_job_title": "მე ვარ სამსახურის მაძიებელი",
+	"edit_resume_looking_for_job_question": "სამსახურს ეძებთ?",
+	"edit_resume_looking_for_job_title_placeholder": "აირჩიეთ ახალი სამსახურის დასახელება",
+	"edit_resume_looking_for_job_sectors_placeholder": "აირჩიეთ ახალი სამსახურის სექტორი",
+	"edit_resume_looking_for_job_types_placeholder": "აირჩიეთ ახალი სამსახურის დასაქმების ტიპი",
+	"edit_resume_looking_for_job_hours_placeholder": "აირჩიეთ ახალი სამსახურის სამუშაო საათების რაოდენობა",
+	"edit_resume_looking_for_job_salary_placeholder": "აირჩიეთ ახალი სამსახურის სასუსრველი ანაზღაურება",
+	"edit_resume_looking_for_job_experience_placeholder": "აირჩიეთ ახალი სამსახურის სამუშაო გამოცდილება (წელი)",
+	"edit_resume_looking_for_job_career_level_placeholder": "აირჩიეთ ახალი სამსახურის თანამდებობის დონე",
+	"edit_resume_job_location_title": "სამსახურის მდებარეობა",
+	"edit_resume_view_map": "რუკაზე ნახვა",
+	"edit_resume_map": "რუკაზე ნახვა",
+	"edit_resume_my_documents": "დოკუმენტები",
+	"edit_resume_add_document": "დოკუმენტის დამატება",
+	"edit_resume_document_upload": "დოკუმენტის ატვირთვა",
+	"edit_resume_document_name_placeholder": "დოკუმენტის დასახელება",
+	"edit_resume_document_drag_drop": "დოკუმენტის ატვირთვა",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_dashboard_stats_job_post": "გამოქვეყნებული ვაკანსია",
+	"company_dashboard_stats_job_viewed": "კანდიდატმა წაიკითხა",
+	"company_dashboard_stats_job_matched": "დამთხვევა",
+	"company_dashboard_tabs_user_profile": "მომხმარებლის პროფილი",
+	"company_dashboard_tabs_company_details": "კომპანიის პროფილი",
+	"company_dashboard_tabs_job_candidates": "კანდიდატები",
+	"company_dashboard_tabs_important_alerts": "შეტყობინებები",
+	"company_dashboard_tabs_my_package": "ჩემი პაკეტი",
+	"company_dashboard_edit_user_profile_title": "მომხმარებლის პროფილის შეცვლა",
+	"company_dashboard_edit_user_profile_name_placeholder": "სახელი",
+	"company_dashboard_edit_user_profile_last_name_placeholder": "გვარი",
+	"company_dashboard_edit_user_profile_email_placeholder": "ელ-ფოსტა",
+	"company_dashboard_edit_user_profile_phone_placeholder": "ტელეფონის ნომერი",
+	"company_dashboard_edit_user_profile_update_now": "განახლება",
+	"company_dashboard_edit_company_title": "კომპანიის შეცვლა",
+	"company_dashboard_edit_company_company_name": "კომპანიის დასახელება",
+	"company_dashboard_edit_company_email": "კომპანიის ელ-ფოსტა",
+	"company_dashboard_edit_company_phone": "ტელ. ნომერი",
+	"company_dashboard_edit_company_country": "ქვეყანა",
+	"company_dashboard_edit_company_city": "ქალაქი",
+	"company_dashboard_edit_company_keywords": "მთავარი სიტყვები (Separated by commas)",
+	"company_dashboard_edit_company_select_city": "ქალაქი",
+	"company_dashboard_edit_company_address_line_1": "მისამართი",
+	"company_dashboard_edit_company_address_line_2": "მისამართი",
+	"company_dashboard_edit_company_facebook_url": "ფეისბუკის მისამართი",
+	"company_dashboard_edit_company_linkedin_url": "ლინქდინის მისამართი",
+	"company_dashboard_edit_company_twitter_url": "თვითერის მისამართი",
+	"company_dashboard_edit_company_google_plus": "გუგლი+",
+	"company_dashboard_edit_company_company_website": "კომპანიის ვებ გვერდი Website",
+	"company_dashboard_edit_company_about_company": "კომპანიის შესახებ",
+	"company_dashboard_edit_company_profile_image": "კომპანიის პროფილის ფოტო",
+	"company_dashboard_edit_company_drag_drop": "ფოტოს ატვირთვა",
+	"company_dashboard_edit_company_intro_max": "კომპანიის ფოტოები (მაქსიმუმ 2)",
+	"company_dashboard_edit_company_drag_click": "ფოტოს ატვირთვა",
+	"company_dashboard_edit_company_offices_images": "ოფისები (მაქსიმუმ 8 ფოტო)",
+	"company_dashboard_edit_company_team": "გუნდი",
+	"company_dashboard_edit_company_remove": "წაშლა",
+	"company_dashboard_edit_company_restore": "აღდგენა",
+	"company_dashboard_edit_company_view_video": "ვიდეოს ნახვა",
+	"company_dashboard_edit_company_add_team_member": "გუნდის წევრის დამატება",
+	"company_dashboard_edit_company_profile_edit_user_profile": "მომხმარებლის პროფილის რედაქტირება",
+	"company_dashboard_edit_company_profile_name": "სახელი",
+	"company_dashboard_edit_company_profile_last_name": "გვარი",
+	"company_dashboard_edit_company_profile_email": "ელ-ფოსტა",
+	"company_dashboard_edit_company_phone_number": "ტელ. ნომერი",
+	"company_dashboard_edit_company_new_password": "ახალი პაროლი",
+	"company_dashboard_edit_company_repeat_password": "გაიმეორე პაროლი",
+	"company_dashboard_edit_company_current_password": "პაროლი",
+	"company_dashboard_edit_company_current_password_required": "აუცილებელი",
+
+
+
+	"company_dashboard_candidates_title": "კანდიდატები",
+	"company_dashboard_candidates_request_csv": "ვიდეოს CSV მოთხოვნა",
+	"company_dashboard_candidates_play_csv": "ვიდეოს CSV ნახვა",
+	"company_dashboard_candidates_csv_requested": "ვიდეო CSV მოთხოვნილია",
+	"company_dashboard_alerts_view_detail": "დეტალების ნახვა",
+	"company_dashboard_my_package_title": "ჩემი პაკეტი",
+	"company_dashboard_my_package_vacancies_left": "დარჩენილი ვაკანსიები",
+	"company_dashboard_my_package_candidates_per_vacancy": "კანდიდატების რაოდენობა ვაკანსიაზე",
+	"company_dashboard_my_package_vacancy_active_days": "დღეების რაოდენობა ვაკანსიის დასრულებამდე",
+	"company_dashboard_my_package_email_and_sms": "ელ-ფოსტა, სმს შეტყობინებები",
+	"company_dashboard_my_package_no_package": "თქვენ არ გაქვთ პაკეტი",
+	"company_dashboard_my_package_pricing": "ფასები",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_details_get_in_touch": "კომპანიის მონაცემები",
+	"company_details_keywords": "COMPANY KEYWORDS",
+	"company_details_about": "ჩვენს შესახებ",
+	"company_details_employees": "ჩვენი გუნდი",
+	"company_details_office": "ოფისის სურათები",
+	"company_details_jobs": "კომპანიის ვაკანსიები",
+	"company_details_who_works_with_us": "ვინ მუშაობს ჩვენთან",
+	"company_details_our_team": "ჩვენი გუნდი",
+	"company_details_play": "ჩართვა",
+	"company_details_ofices_title_1": "დაათვალიერეთ ოფისები",
+	"company_details_our_offices": "ჩვენი ოფისები",
+	"company_details_job_posts": "კომპანიის ვაკანსიები",
+	"company_details_job_title_location": "სამუშაოს დასახელება და მდებარეობა",
+	"company_details_search": "ძებნა",
+	"company_details_clear": "წაშლა",
+	"company_details_job_created_at": "თარიღი და დრო",
+	"company_details_job_location": "სამს. მდებარეობა",
+	"company_details_job_title": "სამს. დასახელება",
+	"company_details_job_sector": "სამს. სექტორი",
+	"company_details_job_minimum_experience": "სამს. გამოცდილება",
+	"company_details_job_career_level": "თანამდ. დონე",
+	"company_details_job_job_description": "სამსახურის აღწერა",
+	"company_details_job_job_hours": "სამს. საათები",
+	"company_details_job_education_direction": "განათ. მიმარ.",
+	"company_details_job_education_level": "განათ. დონე",
+	"company_details_job_salary_range": "სამს. ანაზღ.",
+	"company_details_job_matching": "ხელსაწყოები",
+	"company_details_job_details": "დეტალები",
+	"company_details_view_details": "დეტ. ნახვა",
+	"company_details_start_matchmaking": "ძიება",
+	"company_details_matchmaking_started": "ძიება დაიწყო",
+	"company_details_rematching": "Rematching => ძიების შეწყვეტა",
+	"company_details_duplicate_job": "დუბლიკატი",
+	"company_details_details": "ვაკანსიის აღწერა",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"create_job_title": "ახალი ვაკანსიის შექმნა",
+	"create_edit_job_title": "ვაკანსიის შეცვლა",
+	"create_job_title_placeholder": "აირჩიეთ პროფესია",
+	"create_job_sector_placeholder": "აირჩიეთ სამუშაო სექტორი",
+	"create_job_career_level_placeholder": "აირჩიეთ თანამდებობის დონე",
+	"create_job_hours_placeholder": "აირჩიეთ სამუშაო საათები",
+	"create_job_location_placeholder": "აირჩიეთ ვაკანსიის ადგილმდებარეობა",
+	"create_job_choose_on_map": "აირჩიეთ რუქაზე ადგილმდებარეობა",
+	"create_job_minimum_years_experience_placeholder": "აირჩიეთ მინიმალური გამოცდილება",
+	"create_job_salary_placeholder": "აირჩიეთ ანაზღაურება",
+	"create_job_available_from_placeholder": "აირჩიეთ ხელმისაწვდომი სტატუსი",
+	"create_job_employment_types_placeholder": "აირჩიეთ დასაქმების ტიპები",
+	"create_job_description_placeholder": "ვაკანსიის აღწერა",
+	"create_job_education_title": "მინიმალური განათლების დონე",
+	"create_job_education_direction_placeholder": "აირჩიეთ განათლების მიმართულება",
+	"create_job_education_education_level": "აირჩიეთ განათლების დონე",
+	"create_job_education_start_date_placeholder": "სწავლის დაწყების თარიღი",
+	"create_job_education_end_date_placeholder": "სწავლის დასრულების თარიღი",
+	"create_job_education_graduated_or_not_placeholder": "დიპლომა/სერტიფიკატი",
+	"create_job_Competencies_title": "მინიმალური კომპეტენციები და დონე",
+	"create_job_Competencies_placeholder": "აირჩიეთ კომპეტენციები",
+	"create_job_software_knowledge_title": "მინიმალური პროგრამული ცოდნა",
+	"create_job_software_knowledge_placeholder": "აირჩიეთ პროგრამა",
+	"create_job_software_knowledge_level_placeholder": "აირჩიეთ ცოდნის დონე",
+	"create_job_software_knowledge_graduated_or_not": "დიპლომა/სერტიფიკატი",
+	"create_job_languages_title": "მინიმალური ენების ცოდნა",
+	"create_job_languages_placeholder": "აირჩიეთ ენა",
+	"create_job_languages_speaking_level_placeholder": "სასაუბრო დონე",
+	"create_job_languages_writing_level_placeholder": "წერითი დონე",
+	"create_job_driving_license_title": "მართვის მოწმობა",
+	"create_job_driving_license_placeholder": "აირჩიეთ მართვის მოწმობის ტიპი",
+	"create_job_submit": "დაადასტურეთ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_job_detail_title": "ვაკანსიის აღწერა",
+	"company_job_detail_general_information": "კომპანიის ზოგადი ინფორმაცია",
+	"company_job_detail_job_salary": "ანაზღაურება",
+	"company_job_detail_min_work_exp": "მინიმალური სამუშაო გამოცდილება",
+	"company_job_detail_availability": "შესაძლებლობა",
+	"company_job_detail_matches": "დაკავშირების სტატუსი და ხელსაწყოები",
+	"company_job_detail_request_csv": "ვიდეოს (CSV) ან ინფორმაციის მოთხოვმა",
+	"company_job_detail_education_requirements": "განათლების მოთხოვნები სავალდებულოა",
+	"company_job_detail_education_type": "განათლების ტიპი",
+	"company_job_detail_education_level": "განათლების დონე",
+	"company_job_detail_competencies_required": "კომპეტენციები არ არის სავალდებულო",
+	"company_job_detail_driver_licenses": "მინიმალური მართვის მოწმობის მოთხოვნა",
+	"company_job_detail_driver_licenses_required": "მართვის მოწმობა სავალდებულოა",
+	"company_job_detail_languages_required": "ენების ცოდნა სავალდებულოა",
+	"company_job_detail_speaking_level": "სასაუბრო დონე",
+	"company_job_detail_writing_level": "წერითი დონე",
+	"company_job_detail_software_required": "პროგრამის ცოდნა სავალდებულოა",
+	"company_job_detail_software_name": "პროგრამის სახელი",
+	"company_job_detail_software_education_level": "განათლება",
+	"company_job_detail_software_graduated": "უმაღლესი განათლება",
+	"company_job_detail_employment_types": "დასაქმების ტიპები",
+	"company_job_detail_employment_types_required": "დასაქმების ტიპები სავალდებულოა",
+	"company_job_detail_job_location": "ვაკანსიის ადგილმდებარეობა",
+	"company_public_job_detail_general_information": "კომპანიის ზოგადი ინფორმაცია",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_public_job_detail_job_requirements": "ვაკანსიის მოთხოვნები",
+	"company_public_job_detail_match_options": "სტატუსი და ხელსაწყოები",
+	"company_public_job_detail_matched_to_job": "კანდიდატის პროფილი დაემთხვა სამსახურს:",
+	"company_public_job_detail_send_csv": "ვიდეოს CSV გაგზავნა",
+	"company_public_job_detail_invitation_accepted": "მოწვევა მიღებულია",
+	"company_public_job_detail_accept_invitation": "დაადასტურე",
+	"company_public_job_detail_invitation_declined": "უარყოფა",
+	"company_public_job_detail_decline_invitation": "უარყოფა",
+	"company_public_job_detail_drop_or_click": "დოკუმენტების ატვირთვა",
+	"company_public_job_detail_upload_csv": "ვიდეოს CSV ატვირთვა",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"blog_title": "ბელინქდის შესახებ",
+	"blog_category": "კატეგორია",
+	"blog_categories": "კატეგორიები",
+	"blog_categories_all": "ყველა",
+	"": ""
+}

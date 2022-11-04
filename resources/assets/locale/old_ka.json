@@ -1,0 +1,616 @@
+{
+  "_text_submit_resume": "თქვენ უნდა გადაგზავნოთ რეზიუმე დასადასტურებლად, გამოიყენეთ ლინკი: ",
+  "_text_waiting_for_approval": "რეზიუმე გადახედვის პროცესშია, თქვენ მიიღებთ შეტყობინებას როცა პროცესი დასრულდება.",
+  "_text_resume_rejected": "თქვენი რეზიუმე უარყოფილია, გთხოვთ შეავსოთ და გადმოგზავნოთ ხელმეორედ",
+
+
+
+
+
+
+  "submit": "გაგზავნა",
+  "company": "კომპანია",
+  "first_name": "სახელი",
+  "last_name": "გვარი",
+  "company_email": "კომპანიის ელ-ფოსტა",
+  "applicant": "კანდიდატი",
+  "company_name": "კომპანიის დასახელება",
+  "identification_number": "კომპანიის საიდენტიფიკაციო ნომერი",
+  "gender": "სქესი",
+  "birth_date": "დაბადების თარიღი",
+  "okay": "Okay",
+  "close": "დახურვა",
+  "phone_number": "ტელ. ნომერი",
+  "company_address_1": "მისამართი 1",
+  "company_address_2": "მისამართი 2",
+  "company_name_empty": "კომპანიის სახელი - სავალდებულოა.",
+  "company_id_number_empty": "კომპანიის საიდენტიფიკაციო ნომერი - სავალდებულოა.",
+  "company_email_wrong": "ელ-ფოსტა არასწორია.",
+  "company_phone_number_empty": "ტელეფონის ნომერი - სავალდებულოა სავალდებულოა.",
+  "company_address_1_empty": "კომპანიის მისამართი - სავალდებულოა.",
+  "company_city_id_empty": "კომპანიის ქალაქი - სავალდებულოა.",
+  "company_about": "კომპანიის შესახებ",
+  "company_phone_number": "კომპანიის ტელეფონის ნომერი",
+  "cancel": "გაუქმება",
+  "email": "ელ-ფოსტა",
+  "password": "პაროლი",
+  "confirm_password": "დაადასტურეთ პაროლი",
+  "select_country": "აირჩიეთ ქვეყანა",
+  "select_city": "აირჩიეთ ქალაქი",
+  "mobile_number": "ტელ. ნომერი",
+  "personal_number": "პირადი ნომერი",
+  "please_wait": "გთხოვთ დაიცადოთ",
+  "verifying_your_email_address": "Verifying Your Email Address",
+  "notif_verify_mobile_1": "We've sent a SMS verification code on",
+  "notif_verify_email_1": "We've sent an email verification on",
+  "resend_it": "Resend it",
+  "enter_code": "Enter Code",
+  "or_change_from": "or change from",
+  "profile_edit": "Profile Edit on Dashboard",
+  "submit_resume": "Submit Resume",
+  "resubmit_resume": "Resubmit Resume",
+  "empty": "ცარიელია",
+  "login_email_placeholder": "ელ-ფოსტა",
+  "login_password_placeholder": "პაროლი",
+  "login_button": "შესვლა",
+  "forgot_send_link": "გაგზავნა",
+  "forgot_email_placeholder": "ელ - ფოსტა",
+  "therms": "By continuing, you agree to belinQed’s  <a href=\"/blog/privacy-policy\" target=\"_blank\">Privacy Notice</a> and <a href=\"/blog/terms-of-use\" target=\"_blank\">Terms of Use.</a>",
+  "read_more": "Read More",
+  "read_less": "Read Less",
+
+
+
+
+
+
+
+
+
+
+  "accept": "Accept",
+  "accepted": "Accepted",
+  "decline": "Decline",
+  "declined": "Declined",
+  "dashboard": "Dashboard",
+  "sign_in": "შესვლა",
+  "sign_out": "გამოსვლა",
+  "select_language": "აირჩიეთ ენა",
+  "company_details": "Company Details",
+  "create_job": "Create Job",
+  "my_resume": "ჩემი რეზიუმე",
+  "browse": "Browse",
+  "my_profile": "ჩემი პროფილი",
+  "home": "მთავარი",
+  "jobs": "Jobs",
+  "find_jobs": "Find Jobs",
+  "other_pages": "სხვა გვერდები",
+  "blog": "ბილინქდის შესახებ",
+  "pricing": "ფასები",
+  "candidate_profiles":  "კანდიდატის  პროფილები",
+  "company_profiles": "კომპანიის პროფილები",
+  "total_jobs": "Total Jobs Posted",
+  "successful_matches": "Successful Matches",
+  "waiting_for_matching": "Waiting For Matching",
+  "video_title_1": "უყურეთ ვიდეოს სათაური",
+  "video_title_2_1": "უყურეთ ჩვენს",
+  "video_title_2_2": "ვიდეოს",
+  "work_section_title": "როგორ ვმუშაობთ",
+  "work_section_title_2_1": "Our Work",
+  "work_section_title_2_2": "Process",
+  "male": "Male",
+  "female": "Female",
+  "yes": "Yes",
+  "no": "No",
+  "edit": "Edit",
+  "video": "ვიდეო",
+  "start": "Start",
+  "end": "End",
+  "read": "Read",
+  "less": "Less",
+  "more": "More",
+  "name": "name",
+  "start_date": "Start Date",
+  "end_date": "End Date",
+  "documents": "Documents",
+  "add_field": "Add Field",
+  "fill_resume": "შეავსეთ CV",
+  "post_job": "განათავზეთ Job",
+  "lost_password": "დაგავიწყდათ პაროლი?",
+  "sign_up": "რეგისტრაცია",
+  "map": "რუკა",
+  "view": "View",
+  "graduated": "Graduated",
+  "send": "Send",
+
+
+
+
+
+
+  "footer_about_section_title": "ჩვენ შესახებ",
+  "footer_title_2": "belinQed",
+  "footer_contact_title": "კონტაქტი",
+  "footer_contact_name": "თქვენი სახელი",
+  "footer_contact_email": "ელ-ფოსტა",
+  "footer_contact_msg": "ტექსტი",
+  "copyright": " belinQed © 2019. ყველა უფლება დაცულია",
+  "powered_by": "მხარდაჭერა",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "applicant_dashboard_page_title": "My Dashboard",
+  "applicant_dashboard_my_resume": "ჩემი რეზიუმე",
+  "applicant_dashboard_play_video": "ვიდეო",
+  "applicant_dashboard_matches": "Matches",
+  "applicant_dashboard_about_me": "ჩემ შესახებ",
+  "applicant_dashboard_matched": "Matched Vacancies",
+  "applicant_dashboard_alerts": "მნიშვნელოვანი alerts",
+  "applicant_dashboard_profile_edit": "Profile Edit",
+  "applicant_dashboard_about_title": "ჩემ შესახებ",
+  "applicant_dashboard_get_in_touch": "Get in Touch",
+  "applicant_dashboard_about_viewed_by": "ვიზიტორები",
+  "applicant_dashboard_about_years_old": "წლის",
+  "applicant_dashboard_matched_title": "Matches",
+  "applicant_dashboard_matched_send_csv": "Send CSV",
+  "applicant_dashboard_alerts_no_alerts": "No Alerts",
+  "applicant_dashboard_alerts_new": "(New)",
+  "applicant_dashboard_alerts_view_detail": "ვრცლად",
+  "applicant_dashboard_edit_profile_title": "Edit Profile",
+  "applicant_dashboard_edit_profile_personal_id": "პირადი ნომერი",
+  "applicant_dashboard_edit_profile_phone": "ტელეფონი",
+  "applicant_dashboard_edit_profile_country": "ქვეყანა",
+  "applicant_dashboard_edit_profile_form_name": "სახელი",
+  "applicant_dashboard_edit_profile_form_last_name": "გვარი",
+  "applicant_dashboard_edit_profile_form_personal_id": "პირადი ნომერი",
+  "applicant_dashboard_edit_profile_form_email_address": "ელ-ფოსტა",
+  "applicant_dashboard_edit_profile_form_phone_number": "ტელეფონის ნომერი",
+  "applicant_dashboard_edit_profile_form_birth_date": "დაბადების თარიღი",
+  "applicant_dashboard_edit_profile_form_new_password": "ახალი პაროლი",
+  "applicant_dashboard_edit_profile_form_repeat_password": "გაიმეორე პაროლი",
+  "applicant_dashboard_edit_profile_form_current_password": "Current პაროლი",
+  "applicant_dashboard_edit_profile_form_upload_pic": "Upload Profile Pic",
+  "applicant_dashboard_edit_profile_form_upload": "ატვირთვა",
+  "applicant_dashboard_edit_profile_form_update": "განახლება",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "resume_general_title": "ჩემი რეზიუმე",
+  "resume_general_about_me": "ჩემ შესახებ",
+  "resume_general_get_in_touch": "Get in Touch",
+  "resume_general_last_modified": "ბოლო ცვლილება:",
+  "resume_general_job_seeker": "ეძებს სამსახურს:",
+  "resume_general_visibility": "Visibility:",
+  "resume_general_work_experience": "სამუშაო გამოცდილება",
+  "resume_general_company_name": "კომპანიის სახელი",
+  "resume_general_job_sector": "Job სექტორი",
+  "resume_general_job_location": "Job ადგილი",
+  "resume_general_situation": "Situation:",
+  "resume_general_job_title": "Job Title",
+  "resume_general_job_description": "Job აღწერა!",
+  "resume_general_years_months": "წელი, თვე",
+  "resume_general_read": "read",
+  "resume_general_currently_working": "Currently working",
+  "resume_general_software_knowledge": "Software Knowledge",
+  "resume_general_software_knowledge_level": "Software Knowledge დონე",
+  "resume_general_graduated": "Graduated",
+  "resume_general_education": "Education",
+  "resume_general_institution_name": "Institution Name",
+  "resume_general_education_level": "განათლების დონე",
+  "resume_general_education_direction": "განათლების მიმართულება",
+  "resume_general_core_competencies": "კომპეტენციები",
+  "resume_general_driver_licenses": "მართვის მოწმობა",
+  "resume_general_languages": "Languages",
+  "resume_general_language": "Language",
+  "resume_general_language_speaking_level": "Speaking level",
+  "resume_general_language_writing_level": "Writing level",
+  "resume_general_hobbies": "Hobbies & Interests",
+  "resume_general_current_situation": "Current Situation",
+  "resume_general_skills": "Skills",
+  "resume_general_employer": "Employer:",
+  "resume_general_career_level": "Career Level:",
+  "resume_general_availability": "Availability:",
+  "resume_general_employment_types": "Employment type(s):",
+  "resume_general_looking_for_job": "Looking for job",
+  "resume_general_job_hours": "Job Hours",
+  "resume_general_job_salary": "Job Salary:",
+  "resume_general_accepted": "Resume accepted",
+  "resume_general_accept_resume": "Accept Resume",
+  "resume_general_rejected": "Resume Rejected",
+  "resume_general_reject_resume": "Reject Resume",
+  "resume_general_viewed_by": "Viewed by",
+  "public_resume_match_options": "Match options",
+  "public_resume_matched_to_job": "This resume matched to the job",
+  "public_resume_request_csv": "Request Custom Short Video(CSV)",
+  "public_resume_view_csv": "View Custom Short Video(CSV)",
+  "public_resume_csv_requested": "CSV Requested",
+  "edit_resume_form_video_text": "Drop video here to upload, this will replace your current video",
+  "edit_resume_form_submit_resume": "Submit your resume",
+  "edit_resume_about_title": "About",
+  "edit_resume_about_placeholder": "About Me <Tell us about yourself, your motivation and ambitions>",
+  "edit_resume_employment_history": "Employment History",
+  "edit_resume_employment_history_start_day": "Start Day",
+  "edit_resume_employment_history_end_day": "End day (Leave empty if it's current )",
+  "edit_resume_employment_history_job_title": "Please select job title",
+  "edit_resume_employment_history_job_sector": "Please select job sector",
+  "edit_resume_employment_history_job_location": "Enter job location (Ex: Georgia, Tbilisi)",
+  "edit_resume_employment_history_job_description": "Enter job description",
+  "edit_resume_software_knowledge_select_placeholder": "Please select software",
+  "edit_resume_software_knowledge_level": "Please select software knowledge level",
+  "edit_resume_software_knowledge_graduated": "Graduated or not",
+  "edit_resume_add_education_title": "Add Education",
+  "edit_resume_add_education_institution": "Institution name",
+  "edit_resume_add_education_direction": "Education direction",
+  "edit_resume_driver_license_select": "Please select driving licenses you have",
+  "edit_resume_hobbies": "Your hobbies and interests",
+  "edit_resume_skills_placeholder": "Your skills",
+  "edit_resume_current_situation_employer": "Current employer",
+  "edit_resume_current_situation_job_title": "Current job title",
+  "edit_resume_current_situation_job_sector": "Current job sector",
+  "edit_resume_current_situation_career_level": "Your career level",
+  "edit_resume_current_situation_employment_types": "Select employment types",
+  "edit_resume_looking_for_job_title": "Looking for a job ?",
+  "edit_resume_looking_for_job_question": "Are you looking for a job ?",
+  "edit_resume_looking_for_job_title_placeholder": "Select job titles",
+  "edit_resume_looking_for_job_sectors_placeholder": "Select job sectors",
+  "edit_resume_looking_for_job_types_placeholder": "Select employment types",
+  "edit_resume_looking_for_job_hours_placeholder": "Choose job hours",
+  "edit_resume_looking_for_job_salary_placeholder": "Expected salary",
+  "edit_resume_looking_for_job_experience_placeholder": "Work Experience (Years)",
+  "edit_resume_looking_for_job_career_level_placeholder": "Your career level",
+  "edit_resume_job_location_title": "My Job Locations",
+  "edit_resume_view_map": "View Map",
+  "edit_resume_map": "View Map",
+  "edit_resume_my_documents": "My Documents",
+  "edit_resume_add_document": "Add Document",
+  "edit_resume_document_upload": "Upload Document",
+  "edit_resume_document_name_placeholder": "Document name",
+  "edit_resume_document_drag_drop": "Drag document here or click here to upload",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "company_dashboard_stats_job_post": "Job პოსტები",
+  "company_dashboard_stats_job_viewed": "Job ნახვა",
+  "company_dashboard_stats_job_matched": "Job Matched",
+  "company_dashboard_tabs_user_profile": "User Profile",
+  "company_dashboard_tabs_company_details": "Company Details",
+  "company_dashboard_tabs_job_candidates": "Job Candidates",
+  "company_dashboard_tabs_important_alerts": " შეტყობინებები",
+  "company_dashboard_tabs_my_package": "My Package",
+  "company_dashboard_edit_user_profile_title": "Edit User Profile",
+  "company_dashboard_edit_user_profile_name_placeholder": "Your first name",
+  "company_dashboard_edit_user_profile_last_name_placeholder": "Your last name",
+  "company_dashboard_edit_user_profile_email_placeholder": "Your email",
+  "company_dashboard_edit_user_profile_phone_placeholder": "Your phone number",
+  "company_dashboard_edit_user_profile_update_now": "Update Now",
+  "company_dashboard_edit_company_title": "Edit Company",
+  "company_dashboard_edit_company_company_name": "Company Name",
+  "company_dashboard_edit_company_email": "Company email",
+  "company_dashboard_edit_company_phone": "Phone Number",
+  "company_dashboard_edit_company_country": "Country",
+  "company_dashboard_edit_company_select_city": "Select City",
+  "company_dashboard_edit_company_address_line_1": "Address line 1",
+  "company_dashboard_edit_company_address_line_2": "Address line 2",
+  "company_dashboard_edit_company_facebook_url": "Facebook URL",
+  "company_dashboard_edit_company_linkedin_url": "Linkedin URL",
+  "company_dashboard_edit_company_twitter_url": "Twitter URL",
+  "company_dashboard_edit_company_google_plus": "Google+ URL",
+  "company_dashboard_edit_company_company_website": "Company Website",
+  "company_dashboard_edit_company_about_company": "About Company",
+  "company_dashboard_edit_company_profile_image": "Company profile image",
+  "company_dashboard_edit_company_drag_drop": "Drag image here or click here to upload",
+  "company_dashboard_edit_company_intro_max": "Company intro images (2 files max)",
+  "company_dashboard_edit_company_drag_click": "Drag images here or click here to upload",
+  "company_dashboard_edit_company_offices_images": "Offices (8 images max)",
+  "company_dashboard_edit_company_team": "Team",
+  "company_dashboard_edit_company_remove": "Remove",
+  "company_dashboard_edit_company_restore": "Restore",
+  "company_dashboard_edit_company_view_video": "View Video",
+  "company_dashboard_edit_company_add_team_member": "+ Add Team Member",
+  "company_dashboard_candidates_title": "Candidates",
+  "company_dashboard_candidates_request_csv": "Request CSV",
+  "company_dashboard_candidates_play_csv": "Play CSV",
+  "company_dashboard_candidates_csv_requested": "CSV Requested",
+  "company_dashboard_alerts_view_detail": "View Detail",
+  "company_dashboard_my_package_title": "My package",
+  "company_dashboard_my_package_vacancies_left": "Vacancies left",
+  "company_dashboard_my_package_candidates_per_vacancy": "Candidates per vacancy",
+  "company_dashboard_my_package_vacancy_active_days": "Vacancy active days",
+  "company_dashboard_my_package_email_and_sms": "Email and SMS Notifications",
+  "company_dashboard_my_package_no_package": "You don't have any package, see",
+  "company_dashboard_my_package_pricing": "Pricing",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "company_details_get_in_touch": "Get in Touch",
+  "company_details_keywords": "Keywords",
+  "company_details_about": "About",
+  "company_details_employees": "Employees",
+  "company_details_office": "Office",
+  "company_details_jobs": "Jobs",
+  "company_details_who_works_with_us": "Who works with us",
+  "company_details_our_team": "Our <span>Team</span>",
+  "company_details_play": "Play",
+  "company_details_ofices_title_1": "Take a peek inside  offices",
+  "company_details_our_offices": "Our <span>Offices</span>",
+  "company_details_job_posts": "Job Posts",
+  "company_details_job_title_location": "Job title or location",
+  "company_details_search": "Search",
+  "company_details_clear": "Clear",
+  "company_details_job_created_at": "Created At",
+  "company_details_job_location": "Job Location",
+  "company_details_job_title":"Job Title",
+  "company_details_job_sector": "Job Sector",
+  "company_details_job_minimum_experience": "Minimal Work Experience",
+  "company_details_job_career_level": "Career Level",
+  "company_details_job_job_description": "Job description",
+  "company_details_job_job_hours": "Job hours",
+  "company_details_job_education_direction": "Education direction",
+  "company_details_job_education_level": "Education level",
+  "company_details_job_salary_range": "Salary range",
+  "company_details_job_matching": "Matching",
+  "company_details_job_details": "Details",
+  "company_details_view_details": "View Details",
+  "company_details_start_matchmaking": "Start Matching",
+  "company_details_matchmaking_started": "Matching started",
+  "company_details_rematching": "rematching",
+  "company_details_duplicate_job": "Duplicate job",
+  "company_details_details": "Job Details",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "create_job_title": "Create Job",
+  "create_job_title_placeholder": "Choose job title",
+  "create_job_sector_placeholder": "Choose job sector",
+  "create_job_career_level_placeholder": "Choose career level",
+  "create_job_hours_placeholder": "Choose job hours",
+  "create_job_location_placeholder": "Job Location",
+  "create_job_choose_on_map": "Choose on map",
+  "create_job_minimum_years_experience_placeholder": "Minimum Experience (Years)",
+  "create_job_salary_placeholder": "Choose job salary",
+  "create_job_available_from_placeholder": "Available from",
+  "create_job_employment_types_placeholder": "Select employment types",
+  "create_job_description_placeholder": "Job Description",
+  "create_job_education_title": "Education",
+  "create_job_education_direction_placeholder": "Choose education direction",
+  "create_job_education_education_level": "Choose education level",
+  "create_job_education_start_date_placeholder": "Start date",
+  "create_job_education_end_date_placeholder": "End date",
+  "create_job_education_graduated_or_not_placeholder": "Graduated or not",
+  "create_job_Competencies_title": "Competencies",
+  "create_job_Competencies_placeholder": "Please select your competencies",
+  "create_job_software_knowledge_title": "Software Knowledge",
+  "create_job_software_knowledge_placeholder": "Please select software",
+  "create_job_software_knowledge_level_placeholder": "Please select software knowledge level",
+  "create_job_software_knowledge_graduated_or_not": "Graduated or not",
+  "create_job_languages_title": "Languages",
+  "create_job_languages_placeholder": "Please select language",
+  "create_job_languages_speaking_level_placeholder": "Speaking level",
+  "create_job_languages_writing_level_placeholder": "Writing level",
+  "create_job_driving_license_title": "Driving Licenses",
+  "create_job_driving_license_placeholder": "Please select driving licenses you have",
+  "create_job_submit": "Submit",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "company_job_detail_title": "Job Detail",
+  "company_job_detail_general_information": "General Information",
+  "company_job_detail_job_salary": "Job Salary",
+  "company_job_detail_min_work_exp": "Min. Work Exp.",
+  "company_job_detail_availability": "Availability",
+  "company_job_detail_matches": "Matches",
+  "company_job_detail_request_csv": "Request Custom Short Video",
+  "company_job_detail_education_requirements": "Education requirements",
+  "company_job_detail_education_type": "Education Type",
+  "company_job_detail_education_level": "Education Level",
+  "company_job_detail_competencies_required": "Core competencies required for this job",
+  "company_job_detail_driver_licenses": "Driver Licenses",
+  "company_job_detail_driver_licenses_required": "Driver licenses required for this job",
+  "company_job_detail_languages_required": "Languages required for this job",
+  "company_job_detail_speaking_level": "Speaking level",
+  "company_job_detail_writing_level": "Writing level",
+  "company_job_detail_software_required": "Software required for this job",
+  "company_job_detail_software_name": "Name",
+  "company_job_detail_software_education_level": "Education Level",
+  "company_job_detail_software_graduated": "Graduated",
+  "company_job_detail_employment_types": "Employment Types",
+  "company_job_detail_employment_types_required": "Employment Types required for this job",
+  "company_job_detail_job_location": "Job Location",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "company_public_job_detail_general_information": "General Information",
+  "company_public_job_detail_job_requirements": "Job Requirements",
+  "company_public_job_detail_match_options": "Match options",
+  "company_public_job_detail_matched_to_job": "This resume matched to the job",
+  "company_public_job_detail_send_csv": "Send Custom Short Video",
+  "company_public_job_detail_invitation_accepted": "Invitation Accepted",
+  "company_public_job_detail_accept_invitation": "Accept Invitation",
+  "company_public_job_detail_invitation_declined": "Invitation Declined",
+  "company_public_job_detail_decline_invitation": "Decline Invitation",
+  "company_public_job_detail_drop_or_click": "Drop file here or click here to upload",
+  "company_public_job_detail_upload_csv": "Upload Custom Short Video",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "blog_title": "ბელინქდის შესახებ",
+  "blog_category": "კატეგორია",
+  "blog_categories": "კატეგორიები",
+  "blog_categories_all": "ყველა",
+
+
+
+  "": ""
+
+
+
+
+
+}
+
+

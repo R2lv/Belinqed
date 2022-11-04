@@ -1,0 +1,648 @@
+{
+	"_text_submit_resume": "You have to submit your profile for the approval, use the link: ",
+	"_text_waiting_for_approval": "We are reviewing your profile, you will be notified as the process gets finished.",
+	"_text_resume_rejected": "Your profile was rejected, please fill it correctly and try submitting again",
+
+
+
+
+
+
+	"submit": "Submit",
+	"company": "Company",
+	"first_name": "First Name",
+	"last_name": "Last Name",
+	"company_email": "Company Email",
+	"applicant": "Applicant",
+	"company_name": "Company Name",
+	"identification_number": "Company Identification Number",
+	"gender": "Gender",
+	"birth_date": "Birth Date",
+	"okay": "Okay",
+	"close": "Close",
+	"phone_number": "Phone Number",
+	"company_address_1": "Address line 1",
+	"company_address_2": "Address line 2",
+	"company_name_empty": "Company name field is required.",
+	"company_id_number_empty": "Company Identification Number field is required.",
+	"company_email_wrong": "Company email is not correct.",
+	"company_phone_number_empty": "Company Phone Number field is required.",
+	"company_address_1_empty": "Company address field is required.",
+	"company_city_id_empty": "Company city field is required.",
+	"company_about": "About Company",
+	"company_phone_number": "Company phone number",
+	"cancel": "Cancel",
+	"email": "Email",
+	"password": "Password",
+	"confirm_password": "Confirm Password",
+	"select_country": "Select Country",
+	"select_city": "Select city",
+	"mobile_number": "Phone Number",
+	"personal_number": "Personal Number",
+	"agreement_part1": "By continuing, you agree to belinQed’s",
+	"agreement_part2": "Privacy Notice",
+	"agreement_part3": "and",
+	"agreement_part4": "Terms of Use.",
+	"create_account": "Create Account.",
+	"back": "Back",
+	"register": "Register",
+	"next_step": "Next Step",
+	"please_wait": "Please Wait",
+	"verifying_your_email_address": "Verifying Your Email Address",
+	"notif_verify_mobile_1": "We've sent a SMS verification code on",
+	"notif_verify_email_1": "We've sent an email verification on",
+	"resend_it": "Resend it",
+	"enter_code": "Enter Code",
+	"or_change_from": "or change from",
+	"profile_edit": "Profile Edit on Dashboard",
+	"submit_resume": "Submit profile",
+	"resubmit_resume": "Resubmit profile",
+	"empty": "Empty",
+	"login_email_placeholder": "E-mail",
+	"login_password_placeholder": "Password",
+	"login_button": "Log in",
+	"forgot_send_link": "send",
+	"forgot_email_placeholder": "E-mail",
+	"therms": "By continuing, you agree to belinQed’s  <a href=\"/blog/privacy-policy\" target=\"_blank\">Privacy Notice</a> and <a href=\"/blog/terms-of-use\" target=\"_blank\">Terms of Use.</a>",
+	"read_more": "Read More",
+	"read_less": "Read Less",
+
+
+
+
+
+
+
+
+
+
+	"accept": "Accept",
+	"accepted": "Accepted",
+	"decline": "Decline",
+	"declined": "Declined",
+	"dashboard": "Dashboard",
+	"sign_in": "Sign In Now",
+	"sign_out": "Sign Out",
+	"select_language": "Select Language",
+	"company_details": "Company Details",
+	"create_job": "Create Job",
+	"my_resume": "My profile (CV)",
+	"browse": "Browse",
+	"my_profile": "My Profile (CV)",
+	"home": "Home",
+	"jobs": "Jobs",
+	"find_jobs": "Find Jobs",
+	"other_pages": "Other Pages",
+	"blog": "About belinQed",
+	"pricing": "Pricing",
+	"candidate_profiles":  "Candidate Profiles",
+	"company_profiles": "Company Profiles",
+	"company_profile": "Company Profile",
+	"total_jobs": "Total Jobs Posted",
+	"successful_matches": "Successful Matches",
+	"waiting_for_matching": "Waiting For Matching",
+	"video_title_1": "BEST FOR YOUR PROJECTS",
+	"video_title_2_1": "Watch Our",
+	"video_title_2_2": "Video",
+	"work_section_title": "HOW WE WORK",
+	"work_section_title_2_1": "Our Work",
+	"work_section_title_2_2": "Process",
+	"male": "Male",
+	"female": "Female",
+	"yes": "Yes",
+	"no": "No",
+	"edit": "Edit",
+	"video": "Video",
+	"start": "Start",
+	"end": "End",
+	"read": "Read",
+	"less": "Less",
+	"more": "More",
+	"name": "name",
+	"start_date": "Start Date",
+	"end_date": "End Date",
+	"documents": "Documents",
+	"add_field": "Add Field",
+	"fill_resume": "Fill profile",
+	"post_job": "Post Job",
+	"lost_password": "Forgot Password?",
+	"sign_up": "Sign Up",
+	"map": "Map",
+	"view": "View",
+	"graduated": "Graduated",
+	"send": "Send",
+	"year_exp": "Year Experience",
+	"month": "Month",
+	"bad": "Bad",
+	"normal": "Normal",
+	"good": "Good",
+	"excellent": "Excellent",
+
+
+
+
+
+
+	"footer_about_section_title": "About belinQed",
+	"footer_title_2": "belinQed",
+	"footer_contact_title": "Contact Us",
+	"footer_contact_name": "Your Name",
+	"footer_contact_email": "Email",
+	"footer_contact_msg": "Message",
+	"copyright": "Copyright belinQed © 2019. All Rights Reserved",
+	"powered_by": "Powered By",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"applicant_dashboard_page_title": "My Dashboard",
+	"applicant_dashboard_my_resume": "My profile (CV)",
+	"applicant_dashboard_play_video": "Play Video",
+	"applicant_dashboard_matches": "Matches",
+	"applicant_dashboard_about_me": "About Me",
+	"applicant_dashboard_matched": "Matched Vacancies",
+	"applicant_dashboard_alerts": "Important Alerts",
+	"applicant_dashboard_profile_edit": "Profile Edit",
+	"applicant_dashboard_about_title": "About Me",
+	"applicant_dashboard_get_in_touch": "Get in Touch",
+	"applicant_dashboard_about_viewed_by": "Viewed by",
+	"applicant_dashboard_about_years_old": "years old",
+	"applicant_dashboard_matched_title": "Matches",
+	"applicant_dashboard_matched_send_csv": "Send CSV",
+	"applicant_dashboard_alerts_no_alerts": "No Alerts",
+	"applicant_dashboard_alerts_new": "(New)",
+	"applicant_dashboard_alerts_view_detail": "View Detail",
+	"applicant_dashboard_edit_profile_title": "Edit Profile",
+	"applicant_dashboard_edit_profile_personal_id": "Personal ID",
+	"applicant_dashboard_edit_profile_phone": "Phone",
+	"applicant_dashboard_edit_profile_country": "Country",
+	"applicant_dashboard_edit_profile_city": "City",
+	"applicant_dashboard_edit_profile_form_name": "Your name",
+	"applicant_dashboard_edit_profile_form_last_name": "Your last name",
+	"applicant_dashboard_edit_profile_form_personal_id": "Your personal ID",
+	"applicant_dashboard_edit_profile_form_email_address": "Your email address",
+	"applicant_dashboard_edit_profile_form_phone_number": "Your phone number",
+	"applicant_dashboard_edit_profile_form_birth_date": "Your Birth Date",
+	"applicant_dashboard_edit_profile_form_new_password": "New Password",
+	"applicant_dashboard_edit_profile_form_repeat_password": "Repeat Password",
+	"applicant_dashboard_edit_profile_form_current_password": "Current Password",
+	"applicant_dashboard_edit_profile_form_upload_pic": "Upload Profile Pic",
+	"applicant_dashboard_edit_profile_form_upload": "Upload",
+	"applicant_dashboard_edit_profile_form_update": "Update Now",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"resume_general_title": "Profile Details",
+	"resume_general_about_me": "About Me",
+	"resume_general_get_in_touch": "Get in Touch",
+	"resume_general_last_modified": "Last Modified:",
+	"resume_general_job_seeker": "Job Seeker:",
+	"resume_general_visibility": "Visibility:",
+	"resume_general_work_experience": "Work Experience",
+	"resume_general_company_name": "Company Name",
+	"resume_general_job_sector": "Job Sector",
+	"resume_general_job_location": "Job Location",
+	"resume_general_situation": "Situation:",
+	"resume_general_job_title": "Job Title",
+	"resume_general_job_description": "Job Description",
+	"resume_general_years_months": "Years, Months",
+	"resume_general_read": "read",
+	"resume_general_currently_working": "Currently working",
+	"resume_general_software_knowledge": "Software Knowledge",
+	"resume_general_software_knowledge_level": "Software Knowledge Level",
+	"resume_general_graduated": "Graduated",
+	"resume_general_education": "Education",
+	"resume_general_institution_name": "Institution Name",
+	"resume_general_education_level": "Education Level",
+	"resume_general_education_direction": "Education direction",
+	"resume_general_core_competencies": "Core Competencies",
+	"resume_general_driver_licenses": "Driver Licenses",
+	"resume_general_languages": "Languages",
+	"resume_general_language": "Language",
+	"resume_general_language_speaking_level": "Speaking level",
+	"resume_general_language_writing_level": "Writing level",
+	"resume_general_hobbies": "Hobbies & Interests",
+	"resume_general_current_situation": "Current Situation",
+	"resume_general_skills": "Skills",
+	"resume_general_employer": "Current Employer:",
+	"resume_general_career_level": "Career Level:",
+	"resume_general_availability": "Availability:",
+	"resume_general_employment_types": "Employment type(s):",
+	"resume_general_looking_for_job": "Looking for job",
+	"resume_general_job_hours": "Job Hours",
+	"resume_general_job_salary": "Job Salary:",
+	"resume_general_accepted": "Profiel accepted",
+	"resume_general_accept_resume": "Accept Profile",
+	"resume_general_rejected": "Profile Rejected",
+	"resume_general_reject_resume": "Reject Profile",
+	"resume_general_viewed_by": "Viewed by",
+	"resume_general_language_level_bad": "Bad",
+	"resume_general_language_level_normal": "Normal",
+	"resume_general_language_level_good": "Good",
+	"resume_general_language_level_excellent": "Excellent",
+	"public_resume_match_options": "Match options",
+	"public_resume_matched_to_job": "This profile matched to the job",
+	"public_resume_request_csv": "Request Custom Short Video(CSV)",
+	"public_resume_view_csv": "View Custom Short Video(CSV)",
+	"public_resume_csv_requested": "CSV Requested",
+	"edit_resume_form_video_text": "Drop video here to upload, this will replace your current video",
+	"edit_resume_form_submit_resume": "Submit your profile",
+	"edit_resume_about_title": "About",
+	"edit_resume_about_placeholder": "About Me <Tell us about yourself, your motivation and ambitions>",
+	"edit_resume_employment_history": "Employment History",
+	"edit_resume_employment_history_start_day": "Start Day",
+	"edit_resume_employment_history_end_day": "End day (Leave empty if it's current )",
+	"edit_resume_employment_history_job_title": "Please select job title",
+	"edit_resume_employment_history_job_sector": "Please select job sector",
+	"edit_resume_employment_history_job_location": "Enter job location (Ex: Georgia, Tbilisi)",
+	"edit_resume_employment_history_job_description": "Enter job description",
+	"edit_resume_software_knowledge_select_placeholder": "Please select software",
+	"edit_resume_software_knowledge_level": "Please select software knowledge level",
+	"edit_resume_software_knowledge_graduated": "Graduated or not",
+	"edit_resume_software_knowledge_select_graduated": "Yes",
+	"edit_resume_software_knowledge_select_not_graduated": "No",
+	"edit_resume_add_education_title": "Add Education",
+	"edit_resume_add_education_institution": "Institution name",
+	"edit_resume_add_education_direction": "Education direction",
+	"edit_resume_driver_license_select": "Please select driving licenses you have",
+	"edit_resume_hobbies": "Your hobbies and interests",
+	"edit_resume_skills_placeholder": "Your skills",
+	"edit_resume_current_situation_employer": "Current employer",
+	"edit_resume_current_situation_job_title": "Current job title",
+	"edit_resume_current_situation_job_sector": "Current job sector",
+	"edit_resume_current_situation_career_level": "Your career level",
+	"edit_resume_current_situation_employment_types": "Select employment types",
+	"edit_resume_looking_for_job_title": "Looking for a job ?",
+	"edit_resume_looking_for_job_question": "Are you looking for a job ?",
+	"edit_resume_looking_for_job_title_placeholder": "Select job titles",
+	"edit_resume_looking_for_job_sectors_placeholder": "Select job sectors",
+	"edit_resume_looking_for_job_types_placeholder": "Select employment types",
+	"edit_resume_looking_for_job_hours_placeholder": "Choose job hours",
+	"edit_resume_looking_for_job_salary_placeholder": "Expected salary",
+	"edit_resume_looking_for_job_experience_placeholder": "Work Experience (Years)",
+	"edit_resume_looking_for_job_career_level_placeholder": "Your career level",
+	"edit_resume_job_location_title": "My Job Locations",
+	"edit_resume_view_map": "View Map",
+	"edit_resume_map": "View Map",
+	"edit_resume_my_documents": "My Documents",
+	"edit_resume_add_document": "Add Document",
+	"edit_resume_document_upload": "Upload Document",
+	"edit_resume_document_name_placeholder": "Document name",
+	"edit_resume_document_drag_drop": "Drag document here or click here to upload",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_dashboard_stats_job_post": "Job Post",
+	"company_dashboard_stats_job_viewed": "Job Viewed",
+	"company_dashboard_stats_job_matched": "Job Matched",
+	"company_dashboard_tabs_user_profile": "User Profile",
+	"company_dashboard_tabs_company_details": "Company Details",
+	"company_dashboard_tabs_job_candidates": "Job Candidates",
+	"company_dashboard_tabs_important_alerts": "Important Alerts",
+	"company_dashboard_tabs_my_package": "My Package",
+	"company_dashboard_edit_user_profile_title": "Edit User Profile",
+	"company_dashboard_edit_user_profile_name_placeholder": "Your first name",
+	"company_dashboard_edit_user_profile_last_name_placeholder": "Your last name",
+	"company_dashboard_edit_user_profile_email_placeholder": "Your email",
+	"company_dashboard_edit_user_profile_phone_placeholder": "Your phone number",
+	"company_dashboard_edit_user_profile_update_now": "Update Now",
+	"company_dashboard_edit_company_title": "Edit Company",
+	"company_dashboard_edit_company_company_name": "Company Name",
+	"company_dashboard_edit_company_email": "Company email",
+	"company_dashboard_edit_company_phone": "Phone Number",
+	"company_dashboard_edit_company_country": "Country",
+	"company_dashboard_edit_company_city": "City",
+	"company_dashboard_edit_company_keywords": "Keywords (Separated by commas)",
+	"company_dashboard_edit_company_select_city": "Select City",
+	"company_dashboard_edit_company_address_line_1": "Address line 1",
+	"company_dashboard_edit_company_address_line_2": "Address line 2",
+	"company_dashboard_edit_company_facebook_url": "Facebook URL",
+	"company_dashboard_edit_company_linkedin_url": "Linkedin URL",
+	"company_dashboard_edit_company_twitter_url": "Twitter URL",
+	"company_dashboard_edit_company_google_plus": "Google+ URL",
+	"company_dashboard_edit_company_company_website": "Company Website",
+	"company_dashboard_edit_company_about_company": "About Company",
+	"company_dashboard_edit_company_profile_image": "Company profile image",
+	"company_dashboard_edit_company_drag_drop": "Drag image here or click here to upload",
+	"company_dashboard_edit_company_intro_max": "Company intro images (2 files max)",
+	"company_dashboard_edit_company_drag_click": "Drag images here or click here to upload",
+	"company_dashboard_edit_company_offices_images": "Offices (8 images max)",
+	"company_dashboard_edit_company_team": "Team",
+	"company_dashboard_edit_company_remove": "Remove",
+	"company_dashboard_edit_company_restore": "Restore",
+	"company_dashboard_edit_company_view_video": "View Video",
+	"company_dashboard_edit_company_add_team_member": "+ Add Team Member",
+	"company_dashboard_edit_company_profile_edit_user_profile": "Edit  User Profile",
+	"company_dashboard_edit_company_profile_name": "name",
+	"company_dashboard_edit_company_profile_last_name": "last name",
+	"company_dashboard_edit_company_profile_email": "Email",
+	"company_dashboard_edit_company_phone_number": "Phone Number",
+	"company_dashboard_edit_company_new_password": "New Password",
+	"company_dashboard_edit_company_repeat_password": "Repeat Password",
+	"company_dashboard_edit_company_current_password": "Current Password",
+	"company_dashboard_edit_company_current_password_required": "Required",
+
+
+
+	"company_dashboard_candidates_title": "Candidates",
+	"company_dashboard_candidates_request_csv": "Request CSV",
+	"company_dashboard_candidates_play_csv": "Play CSV",
+	"company_dashboard_candidates_csv_requested": "CSV Requested",
+	"company_dashboard_alerts_view_detail": "View Detail",
+	"company_dashboard_my_package_title": "My package",
+	"company_dashboard_my_package_vacancies_left": "Vacancies left",
+	"company_dashboard_my_package_candidates_per_vacancy": "Candidates per vacancy",
+	"company_dashboard_my_package_vacancy_active_days": "Vacancy active days",
+	"company_dashboard_my_package_email_and_sms": "Email and SMS Notifications",
+	"company_dashboard_my_package_no_package": "You don't have any package, see",
+	"company_dashboard_my_package_pricing": "Pricing",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_details_get_in_touch": "Get in Touch",
+	"company_details_keywords": "Keywords",
+	"company_details_about": "About",
+	"company_details_employees": "Employees",
+	"company_details_office": "Office",
+	"company_details_jobs": "Jobs",
+	"company_details_who_works_with_us": "Who works with us",
+	"company_details_our_team": "Our <span>Team</span>",
+	"company_details_play": "Play",
+	"company_details_ofices_title_1": "Take a peek inside  offices",
+	"company_details_our_offices": "Our <span>Offices</span>",
+	"company_details_job_posts": "Job Posts",
+	"company_details_job_title_location": "Job title or location",
+	"company_details_search": "Search",
+	"company_details_clear": "Clear",
+	"company_details_job_created_at": "Created At",
+	"company_details_job_location": "Job Location",
+	"company_details_job_title":"Job Title",
+	"company_details_job_sector": "Job Sector",
+	"company_details_job_minimum_experience": "Minimal Work Experience",
+	"company_details_job_career_level": "Career Level",
+	"company_details_job_job_description": "Job description",
+	"company_details_job_job_hours": "Job hours",
+	"company_details_job_education_direction": "Education direction",
+	"company_details_job_education_level": "Education level",
+	"company_details_job_salary_range": "Salary range",
+	"company_details_job_matching": "Matching",
+	"company_details_job_details": "Details",
+	"company_details_view_details": "View Details",
+	"company_details_start_matchmaking": "Start Matching",
+	"company_details_matchmaking_started": "Matching started",
+	"company_details_rematching": "Rematching => Stop Matching",
+	"company_details_duplicate_job": "Duplicate job",
+	"company_details_details": "Job Details",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"create_job_title": "Create Job",
+	"create_edit_job_title": "Edit Job",
+	"create_job_title_placeholder": "Choose job title",
+	"create_job_sector_placeholder": "Choose job sector",
+	"create_job_career_level_placeholder": "Choose career level",
+	"create_job_hours_placeholder": "Choose job hours",
+	"create_job_location_placeholder": "Job Location",
+	"create_job_choose_on_map": "Choose on map",
+	"create_job_minimum_years_experience_placeholder": "Minimum Experience (Years)",
+	"create_job_salary_placeholder": "Choose job salary",
+	"create_job_available_from_placeholder": "Available from",
+	"create_job_employment_types_placeholder": "Select employment types",
+	"create_job_description_placeholder": "Job Description",
+	"create_job_education_title": "Education",
+	"create_job_education_direction_placeholder": "Choose education direction",
+	"create_job_education_education_level": "Choose education level",
+	"create_job_education_start_date_placeholder": "Start date",
+	"create_job_education_end_date_placeholder": "End date",
+	"create_job_education_graduated_or_not_placeholder": "Graduated or not",
+	"create_job_Competencies_title": "Competencies",
+	"create_job_Competencies_placeholder": "Please select your competencies",
+	"create_job_software_knowledge_title": "Software Knowledge",
+	"create_job_software_knowledge_placeholder": "Please select software",
+	"create_job_software_knowledge_level_placeholder": "Please select software knowledge level",
+	"create_job_software_knowledge_graduated_or_not": "Graduated or not",
+	"create_job_languages_title": "Languages",
+	"create_job_languages_placeholder": "Please select language",
+	"create_job_languages_speaking_level_placeholder": "Speaking level",
+	"create_job_languages_writing_level_placeholder": "Writing level",
+	"create_job_driving_license_title": "Driving Licenses",
+	"create_job_driving_license_placeholder": "Please select driving licenses you have",
+	"create_job_submit": "Submit",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_job_detail_title": "Job Detail",
+	"company_job_detail_general_information": "General Information",
+	"company_job_detail_job_salary": "Job Salary",
+	"company_job_detail_min_work_exp": "Min. Work Exp.",
+	"company_job_detail_availability": "Availability",
+	"company_job_detail_matches": "Matches",
+	"company_job_detail_request_csv": "Request Custom Short Video",
+	"company_job_detail_education_requirements": "Education requirements",
+	"company_job_detail_education_type": "Education Type",
+	"company_job_detail_education_level": "Education Level",
+	"company_job_detail_competencies_required": "Core competencies required for this job",
+	"company_job_detail_driver_licenses": "Driver Licenses",
+	"company_job_detail_driver_licenses_required": "Driver licenses required for this job",
+	"company_job_detail_languages_required": "Languages required for this job",
+	"company_job_detail_speaking_level": "Speaking level",
+	"company_job_detail_writing_level": "Writing level",
+	"company_job_detail_software_required": "Software required for this job",
+	"company_job_detail_software_name": "Name",
+	"company_job_detail_software_education_level": "Education level",
+	"company_job_detail_software_graduated": "Graduated",
+	"company_job_detail_employment_types": "Employment Types",
+	"company_job_detail_employment_types_required": "Employment Types required for this job",
+	"company_job_detail_job_location": "Job Location",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"company_public_job_detail_general_information": "General Information",
+	"company_public_job_detail_job_requirements": "Job Requirements",
+	"company_public_job_detail_match_options": "Match options",
+	"company_public_job_detail_matched_to_job": "This profile matched to the job",
+	"company_public_job_detail_send_csv": "Send Custom Short Video",
+	"company_public_job_detail_invitation_accepted": "Invitation Accepted",
+	"company_public_job_detail_accept_invitation": "Accept Invitation",
+	"company_public_job_detail_invitation_declined": "Invitation Declined",
+	"company_public_job_detail_decline_invitation": "Decline Invitation",
+	"company_public_job_detail_drop_or_click": "Drop file here or click here to upload",
+	"company_public_job_detail_upload_csv": "Upload Custom Short Video",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"blog_title": "About belinQed",
+	"blog_category": "Category",
+	"blog_categories": "Categories",
+	"blog_categories_all": "All",
+	"": ""
+
+
+
+
+
+}

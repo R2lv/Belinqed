@@ -1,0 +1,24 @@
+
+1-10 Notifications
+
+11-70 - Register + Login
+
+71-130 - General
+
+131-160 - footer
+
+161-210 - Applicant dashboard
+
+211-320 - Resume Details (255 public resume)
+
+321-400 - Company Dashboard
+
+401-450 - Company Details
+
+451-500 - Create job
+
+501-550 - Company job detail
+
+551-600 - Company public job
+
+601-650 - Blog
